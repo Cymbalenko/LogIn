@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LogIn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="welcome">welcome</string>
+</resources>
